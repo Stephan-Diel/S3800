@@ -1,0 +1,10 @@
+#Be carefull all he mentioned Files will not be pushed!!!
+Download-Vault/
+History/
+Panel/
+Project Logs */
+Project Outputs */
+__Previews/
+Thumbs.db
+Test.txt
+~$*.xlsx 

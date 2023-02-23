@@ -1,0 +1,4 @@
+ONCE RELEASED: 
+- NEVER EVER CHAGE THE FILES IN THESE DIRECTORIES!
+- NEVER WORK IN THESE DIRECTOTRIES (do not open files directly from these folders)
+
