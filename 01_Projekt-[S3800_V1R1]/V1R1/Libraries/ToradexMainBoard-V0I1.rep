@@ -1,0 +1,308 @@
+CSV text has been written to file : ToradexMainBoard-V0I1.csv
+
+Library Component Count : 300
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+BAT_79523211        BATTERY RETAINER COIN PC PIN THT for 2016, 2020, 2025 2032.
+B_F/SMD-03ALF       
+CON-10018783-11111TLFAMPHENOL ICC (FCI) - 10018783-11111TLF - CONNECTOR, PCI, 2X32WAY
+CON-615008138221    WURTH ELEKTRONIK - 615008138221 - JACK, RJ45, VERT, 8P8C, SHIELDED
+CON-Hirose-FH12-40S-0.5SV(55)-0.5mmCONN FFC VERT 40POS 0.50MM SMD
+CON-TE-14730051-200-0.6mmConn SO DIMM Socket SKT 200 POS 0.6mm Solder RA SMD Tray
+CON_10p_09185106914 Wire-To-Board Connector, Shrouded, 2.54 mm, 10 Contacts, Header, SEK 18 Series, Through Hole
+CON_10p_5103309-1   WIRE-BOARD CONNECTOR, HEADER, 10 POSITION, 2.54MM; Product Range:TE - AMP-LATCH Series; Contact Termination Type:Through Hole; Gender:Header; No. of Contacts:10; No. of Rows:2; Pitch Spacing:2.54mm; Contact Plating:Gold; Width:0.800
+CON_10p_687310124422CONN FPC VERT 10POS 0.50MM SMD
+CON_12Pol_1939316   Pluggable Terminal Blocks 12 Pos 2.5mm pitch Through Hole Header
+CON_150309          LUMBERG         1503 09            Phone Audio Connector, Jack, 3.5 mm, 3 Contacts, PCB Mount, Plastic Body, Silver Plated Contacts
+CON_16p_09185166924 CONN HEADER 16POS T/H
+CON_1935161         Conn Terminal Blocks 2 POS 5mm Solder ST Thru-Hole 16A
+CON_1p_3866B.68     Flachstecker 3866B.68 / B¸rklin 05F270
+CON_1p_61300111121  CONN HEADER VERT 1POS
+CON_20p-DP-2041441-1CONN RCPT DISPLAYPORT 20POS VERT
+CON_20p-DP-47272-0001HDMI, Displayport & DVI Connectors .5MM RA SMT RCPT
+CON_20p_09185206924 CONN HEADER 20POS T/H
+CON_20p_1289340000  TERMINAL BLOCK, PCB, 20 POSITION; No. of Positions:20; Rated Voltage:200V; Rated Current:13.4A; Pitch Spacing:3.5mm; Block Orientation:Through Hole Right Angle; Gender:Header; Connector Mounting:PCB Mount; No. of Contacts:20 ;RoHS Compliant: Yes
+CON_20p_5103309-5   CONN HEADER LOPRO STR 20POS GOLD
+CON_24p_217184-0001 Connector USB Type C Female 24Positions 0.5mm Right Angle SMT Embossed T/R
+CON_24p_632723100011WURTH ELEKTRONIK - 632723100011 - USB CONNECTOR, 3.1 TYPE C, RCPT, 24POS
+CON_2p_B2B-XH-A(LF)(SN)Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Thru-Hole Box
+CON_2p_B2P-VH-B(LF)(SN)CONN HEADER TOP 2POS 3.96MM VH
+CON_3p_61300311121  Board-To-Board Connector, Vertical, Wr-Phd Series, Through Hole, Header, 3, 2.54 Mm
+CON_3p_B3B-XH-A(LF)(SN)JST (JAPAN SOLDERLESS TERMINALS) - B3B-XH-A (LF)(SN) - Wire-To-Board Connector, 2.5 mm, 3 Contacts, Header, XH Series, Through Hole, 1 Rows
+CON_40p_68714014022 SMT ZIF Connectors WR-FPC, Horizontal, Top Contact, pitch 0.5 mm, 40 pins
+CON_4p_68610414122  SMT ZIF Connectors WR-FPC, Horizontal, Top Contact, pitch 1 mm, 4 pins
+CON_4pol_B4B-XH-A(LF)(SN)JST (JAPAN SOLDERLESS TERMINALS) - B4B-XH-A (LF)(SN) - Wire-To-Board-Steckverbinder, vertikal, 2.5 mm, 4 Kontakt(e), Stiftleiste, Baureihe XH
+CON_5p_61300511121  WURTH ELEKTRONIK - 61300511121 - Pin Header, Board-to-Board, 2.54 mm, 1 Rows, 5 Contacts, Through Hole, WR-PHD Series
+CON_5p_B5B-XH-A(LF)(SN)Conn Shrouded Header HDR 5 POS 2.5mm Solder ST Thru-Hole Box
+CON_61300821121     WURTH ELEKTRONIK - 61300821121 - Pin Header, Vertical, Board-to-Board, 2.54 mm, 2 Rows, 8 Contacts, Through Hole Straight
+CON_61301028521     Pin Header 61306428521 wird auf 2x5 Pins verk¸rzt ggf. so lieferbar?
+CON_615016240521    Modular Jack WR-MJ, Tab Up & Down, Shielded, Dual Stacked Port with EMI Panel Finger, Horizontal Entry, THT, 8P8C
+CON_696103201002    FUSEHOLDER BLOCKS - PCB - CLIP C
+CON_6p_1870187      PCB Terminal Push-In 3.81mm 16AWG 160V 12A 6 Position Combicon Control Series
+CON_6pol_B6BXHA(LF)(SN)CONN HEADER VERT 6POS 2.5MM
+CON_8p_121-M-121-8  WECO Connector 5.08mm Raster.
+CON_8pol_B8B-XH-A(LF)(SN)HEADER, VERTICAL, 8WAY; Product Range:XH Series; Contact Termination Type:Through Hole; Gender:Header; No. of Contacts:8; Pitch Spacing:2.5mm; Contact Plating:Tin; Contact Material:Brass; No. of Rows:1; Contact Resistance:10mohm; ;RoHS Compliant: Yes
+CON_Cinch_Br¸klin-60F132JST (JAPAN SOLDERLESS TERMINALS) - B4B-XH-A (LF)(SN) - Wire-To-Board-Steckverbinder, vertikal, 2.5 mm, 4 Kontakt(e), Stiftleiste, Baureihe XH
+CON_J_61300211121   WURTH ELEKTRONIK - 61300211121 - Pin Header, Vertical, Board-to-Board, 2.54 mm, 1 Rows, 2 Contacts, Through Hole Straight
+CON_KRE02           LUMBERG - KRE 02 - Morsettiera di collegamento Filo-Scheda, 5 mm, 2 Vie, 4 mm≤, Vite
+CON_Modul-TFT-3.5in_20503.5" TFT 320X480 TOUCHSCREEN
+CON_Modul_ArduinoNano3ATmega328 Microcontroller Development Board 16MHz CPU 2KB RAM 1KB/32KB EEPROM/Flash
+CON_Modul_TMCSILENTSTEPSTICK SPITMC2130STEPPERDRIVERBOARD
+CON_RJ45-J000065NL  Modular Connectors / Ethernet Connectors 1X1 TAB DOWN 10/100
+CON_RS232_8LCM009S-304B-XXSOCKET, D PCB R/A 9 WAY - More Details
+CON_SI-60062-F      Magjack 1:1 full magnetics LED
+CON_SOCKET_1565917-4Conn SO DIMM Socket SKT 200 POS Solder RA SMD T/R
+CON_USB_614004184726WURTH ELEKTRONIK - 614004184726 - USB Connector, USB Type A, USB 2.0, Receptacle, 4 Ways, Through Hole Mount, Right Angle
+C_1000uF_ECA1JHG102 Capacitor;  Aluminum Electrolytic;  Cap 1000uF;  Vol-Rtg 63V;  Radial;  nHg
+C_100nF_100V_C3216X7R2A104K160AACAP CER 0.1UF 100V X7R 1206
+C_100nF_CC0805KRX7R9BB104CAP CER 0.1UF 50V X7R 0805
+C_100uF/63V_A780MS107M1JLAS030SMD Hybrid Aluminum Polymer Capacitor
+C_100uF_865230245004Smd Aluminium Electrolytic Capacitor, Wcap-As5H Series, 100 F, 10 V, Radial Can - Smd, 6.3 Mm Rohs Compliant: Yes
+C_100uF_TAN_TAJD107K016RNJCap Tant Solid 100uF 16V D CASE 10% (7.3 X 4.3 X 2.9mm) SMD 7343-31 0.6 Ohm 125C T/R
+C_10nF_CC0805KRX7R9BB103YAGEO - CC0805KRX7R9BB103 - SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0805 [2012 Metric], ± 10%, X7R, CC Series
+C_10pF_C0805C100J5GACTUKEMET - C0805C100J5GACTU - SMD Multilayer Ceramic Capacitor, 10 pF, 50 V, 0805 [2012 Metric], ± 5%, C0G / NP0, C Series KEMET
+C_10uF_C1210C106K5RACTUCAP CER 10UF 50V X7R 1210
+C_10uF_GRM21BR6YA106ME43L0805 10 uF 50 V ±20% Tolerance X5R Multilayer Ceramic Capacitor
+C_120pF_08055C121KAT2ACap Ceramic 120pF 50V X7R 10% SMD 0805 125C T/R
+C_1500uF_EEE-FK1V152AMCAP, ALU ELEC, 1500UF, 35V, SMD
+C_1nF-1kV-CGA5F1X7S3A102M085AECAP CER 1000PF 1KV X7S 1206
+C_1nF-1kV_C1206C102KDRACTUCapacitor Ceramic 0.001uF 1000 Volt X7R 10% Surface Mount 1206 125C Plastic
+C_1nF/100V_12061A102JAT2ACap Ceramic 0.001uF 100V C0G 5% SMD 1206 125Å? Paper T/R
+C_1nF_C0805C102K5RAC7411Multilayer Ceramic Capacitors MLCC - SMD/SMT 50volts 1000pF X7R 10%
+C_1uF_12065C105JAT2ACERAMIC CAPACITOR, 1UF, 50V, X7R, 5%, 1206, FULL REEL; Product Range:-; Capacitance:1 F; Capacitance Tolerance: 5%; Dielectric Characteristic:X7R; Voltage Rating:50V; Ceramic Capacitor Case:1206 [3216 Metric]; Packaging:Tape & Reel ;RoHS Compliant: Yes
+C_1uF_CC0805KKX7R9BB105Cap Ceramic 1uF 50V X7R 10% SMD 0805 125C Blister T/R
+C_2.7nF_C0805C272K5RACTUKEMET         C0805C272K5RACTU             SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 2700 pF, 50 V,  10%, X7R, C Series
+C_220nF_C0805C224K5RACTUCAP CER 0.22UF 50V X7R 0805
+C_220pF_C0805C221K5RACTUKEMET         C0805C221K5RACTU            CERAMIC CAPACITOR, 220PF, 50V, X7R, 10%, 0805, FULL REEL
+C_220uF_TAN_TPSD227M010R0100CAPACITOR, TANTALUM
+C_22nF_08051C223KAT2AMultilayer Ceramic Capacitors MLCC - SMD/SMT 100V .022uF X7R 0805 10% Tol
+C_330nF_GA4J2X7R1H334K125AACGA Series 0805 330 nF 50 V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor
+C_330uF_100V_ECA-2AM331Cap Aluminum Lytic 330uF 100V 20% (12.5 X 25mm) Radial 5mm 700mA 2000h 85C Bulk
+C_330uF_35V_EEEFP1V331APGLOVE, POLYAMIDE, L/FREE, PU, SIZE 6 - More Details
+C_4.7uF_C1206C475K3RACAUTOKEMET - C1206C475K3RACAUTO - SMD Multilayer Ceramic Capacitor, AEC-Q200, 4.7 µF, 25 V, 1206 [3216 Metric], ± 10%, X7R
+C_470nF_08055C474KAZ2ACAP CER 0.47UF 50V X7R 0805
+C_470nF_C1206X474K1RACTUCap Ceramic 0.47uF 100V X7R 10% Pad SMD 1206 Flexible Termination 125C Automotive Medical T/R
+C_470pF_08051A471JAT2AAVX - 08051A471JAT2A - SMD Multilayer Ceramic Capacitor, 470 pF, 100 V, 0805 [2012 Metric], ± 5%, C0G / NP0, AVX 0805 MLCC
+C_47pF_C0805C470J1GACTUCapacitor: ceramic; MLCC; 47pF; 100V; C0G; ±5%; SMD; 0805
+C_47uF_GRM31CR61A476KE15LMultilayer Ceramic Capacitors MLCC - SMD/SMT 1206 47uF 10Vdc X5R +/-10%
+C_680pF_C0805C681K5RACTUCap Ceramic 680pF 50V X7R 10% SMD 0805 125C T/R
+ConLock_09180009904 HARTING         09180009904             Connector Accessory, Short, Locking Lever                          New
+D_BAT5404E6327      BAT54 Series 30 V 600 mA Surface Mount Silicon Schottky Diode - SOT-23-3
+D_BAT54CLT1G        Diode Schottky 30V 0.2A 3-Pin SOT-23 T/R
+D_BZX84C10LT1G      ON SEMICONDUCTOR - BZX84C10LT1G - Zener Single Diode, 10 V, 225 mW, SOT-23, 6 %, 3 Pins, 150 ∞C
+D_BZX84C5V1-G3-08   Zener Diodes 5.1 Volt 0.35W 5%
+D_DFLS160-7         DIODES INC. - DFLS160-7 - Schottky Rectifier, 60 V, 1 A, Single, PowerDI 123, 2 Pins, 500 mV
+D_ES2D-SMB          ON SEMICONDUCTOR - ES2D - Fast / Ultrafast Diode, 200 V, 2 A, Single, 900 mV, 20 ns, 50 A
+D_ES2DA-13-F        DIODE GEN PURP 200V 2A SMA
+D_LL4148            ON SEMICONDUCTOR - LL4148 - Small Signal Diode, Single, 100 V, 200 mA, 1 V, 4 ns, 2 A
+D_MBRD1035CTLG      ON Semi MBRD1035CTLG; Dual SMT Schottky Diode; Common Cathode; 35V 10A; 3-Pin D-PAK
+D_TPD2EUSB30DRTR    TEXAS INSTRUMENTS - TPD2EUSB30DRTR - ESD Protection Device, 8 V, SOT, 3 Pins, TPD2E Series
+D_TVS-SMAJ28CA-TR   TVS DIODE 28V 59V SMA
+D_TVS_1.5SMC56AT3G  TVS DIODE 47.8V 77V SMC
+D_TVS_1.5SMC56CA    TVS DIODE 47.8VWM 77VC SMD
+D_US1M-13-F         Diode Switching 1KV 1A 2-Pin SMA T/R
+F_Fuse-0154002.DR   LITTELFUSE   0154002.DR.   FUSE BLOCK W/ 2A FUSE, FAST ACTING
+F_Fuse-0154004.DR   FUSE BRD MNT 4A 125VAC/VDC 2SMD
+Fiducial_1,5mm      Fiducial Passermarke mit 1.5mm Druchmesser.
+Fiducial_Cross      Fiducial Cross for Optical alignment.
+IC-74LCX244MTCX     IC BUF NON-INVERT 3.6V 20TSSOP
+IC-AD-ADM3491ARZ    Single Transmitter/Receiver RS-422/RS-485 14-Pin SOIC N Tube
+IC-AD-ADuM1301ARW   Digital Isolators Digital Triple-CH
+IC-MC-MCP2551T-I/SN CAN Interface IC Hi Spd CAN Transceiv
+IC-MUR-NTE0505MC-R  Module DC-DC 1-OUT 5V 0.2A 1W 8-Pin SMD T/R
+IC-TI-TPS51120      IC REG CTRLR BUCK 32QFN
+IC_24AA64T-I/OT     MICROCHIP - 24AA64T-I/OT - SERIAL EEPROM, 64KBIT, 400KHZ, SOT-23-5
+IC_74HC1G00GW       NXP         74HC1G00GW             NAND Gate, HC Family, 1 Gate, 2 Input, 2.6 mA, 2V to 6V, SOT-353-5
+IC_74LCX138M        ON SEMICONDUCTOR - 74LCX138M - 74LCX CMOS SMD 74LCX138,SOIC16
+IC_74LCX74M         Flip Flop D-Type Pos-Edge 2-Element 14-Pin SOIC N Rail
+IC_A3986SLDTR-T     A3986SLDTR-T
+IC_A4989SLDTR-T     A4989SLDTR-T
+IC_AD1582ARTZ-R2    ANALOG DEVICES         AD1582ARTZ-R2             Voltage Reference, Precision, Series - Fixed, AD1582 Series, 2.5V, SOT-23-3
+IC_AD5262BRUZ20     ANALOG DEVICES   AD5262BRUZ20..   IC, 8-BIT DIGITAL POT
+IC_AD5680BRJZ-2REEL7IC DAC 18BIT 5V SOT23-8
+IC_AD7415ARTZ-0500RL7SENSOR DIGITAL -40C-125C SOT23-5
+IC_AD7788ARMZ       Single ADC Delta-Sigma 16.6sps 16-bit Serial 10-Pin MSOP Tube
+IC_AD8279ARZ        DIFFERENTIAL AMPLIFIER, 1MHZ, 1.4V/ uS, SOIC-14; No. of Amplifiers:2; Input Offset Voltage:500 V; Gain dB Max:2dB; Bandwidth:1MHz; Amplifier Case Style:SOIC; No. of Pins:14; Supply Voltage Range:2V to 36V; Slew Rate:1.4V/ s ;RoHS Compliant: Yes
+IC_AD8684ARZ        ANALOG DEVICES         AD8684ARZ            Operational Amplifier, QUAD, 3.5 MHz, 4 Amplifier, 9 V/s,  4.5V to  18V, SOIC, 14 Pins
+IC_ADC101C027CIMK/NOPBSingle ADC SAR 188.9ksps 10-bit Serial 6-Pin TSOT-23 T/R
+IC_ADM2486BRWZ-REEL Single Transmitter/Receiver RS-485 16-Pin SOIC W T/R
+IC_ADS1220IPWR      Single ADC Delta-Sigma 2ksps 24-bit Serial (5-Wire, 4-Wire, 3-Wire, SPI) 16-Pin TSSOP T/R
+IC_ADUM1300ARWZ-RL  IC,Digital Coupler,HYBRID,SOP,16PIN,PLASTIC
+IC_AP3032KTR-G1     AP3032 Series 9 V 1.3 MHz Surface Mount White LED Step-Up Converter - SOT-23-6
+IC_AQY214EHA        RELAY OPTO SPST-NO 120MA 400V
+IC_AT91SAM7X512-AU  AT91 ARM Thumb-based 32-bit Microcontroller, 512KB Flash, 128KB SRAM, E-MAC, CAN, 100-Pin LQFP, Industrial Grade (-40∞C to 85∞C), Pb-Free
+IC_CD74HC190PW      LOGIC, BCD UP/DWN COUNTR PREST, 16SSOP
+IC_CME0505SC        DC-DC CONV, ISO POL, 1O/P, 0.75W, 5V
+IC_DAC104S085CIMMX/NOPBDAC 10BIT MICROPWR QUAD 10-MSOP
+IC_DI78M05UAB       Voltage Regulator, SOT-89, 35V .. 4.800V, 5.200V .. 4.200mA
+IC_DP83848CVV/NOPB  Commercial temperature, 10/100-Mbps Ethernet PHY transceiver with SNI interface & JTAG support 48-LQFP 0 to 70
+IC_DRV8662RGPT      TEXAS INSTRUMENTS - DRV8662RGPT - PIEZO HAPTIC DRIVER, 105V BOOST SWITCH, QFN-20
+IC_DRV8825PWPR      Resistor Trimmer 10k Ohm 10% 1/4 Watt 11 Turn 1.5mm J-hook Surface Mount Embossed Tape and Reel
+IC_DS2431P+         EEPROM 1024-Bit 1-Wire EEPROM
+IC_DS90CF384AMTDX/NOPB+3.3V LVDS eceiver 24-Bit Flat Panel Display (FPD) Link - 65MHz 56-TSSOP -10 to 70
+IC_FM25CL64B-GTR    NVRAM FRAM Serial-SPI 64K-Bit 3V/3.3V 8-Pin SOIC T/R
+IC_IR2104SPBF       INFINEON - IR2104SPBF - IC, MOSFET-TREIBER, HIGH/LOW-SIDE SOIC-8
+IC_IR2184SPBF       Driver 600V 2.3A 2-OUT Hi/Lo Side Half Brdg Inv/Non-Inv 8-Pin SOIC
+IC_LM2672M-ADJ/NOPB STEP-DOWN REGULATOR, 8-SOIC; Input Voltage Min:6.5V; Input Voltage Max:40V; No. of Outputs:1; DC / DC Converter IC Case:SOIC; No. of Pins:8; Output Current:1A; Output Voltage Min:1.21V; Output Voltage Max:37V; Packaging:Cut Tape ;RoHS Compliant: Yes
+IC_LM2674M-5.0/NOPB Conv DC-DC Single Step Down 8V to 40V 8-Pin SOIC Tube
+IC_LM317DCYR        TEXAS INSTRUMENTS - LM317DCYR - LINEAR VOLT REG, 1.5A, 1.25V-37V, SOT223
+IC_LM337IMPX/NOPB   Standard Regulator Neg -1.2V to -37V 1A 4-Pin(3+Tab) SOT-223 T/R
+IC_LM339APWR        IC QUAD DIFF COMPARATOR 14-TSSOP
+IC_LM393DT          Comparator Dual 18V/36V 8-Pin SO N T/R
+IC_LM5109BMA/NOPB   1-A, 100-V half bridge gate driver with 8-V UVLO and high noise immunity 8-SOIC -40 to 125
+IC_LT1676CS8#PBF    IC REG BUCK ADJ 0.55A 8SOIC
+IC_LT3724EFE#PBF    LINEAR TECHNOLOGY 	   	LT3724EFE#PBF 	   	IC, SWITCHING REGULATOR CTRL, 16-TSSOP
+IC_LTC1775CS#PBF    IC REG CTRLR BUCK/BCK-BST 16SOIC
+IC_LTC2400CS8#PBF   Single Channel Single ADC Delta-Sigma 7.5sps 24-bit Serial 8-Pin SOIC N
+IC_LTC2954CTS8-2#TRMPBF (2)FIXED IND 22UH 16.4A 7 MOHM TH
+IC_LTC6992HS6-1#TRMPBFLinear Technology LTC6992HS6-1#TRMPBF Linear IC
+IC_LTC7001EMSE#TRPBFIC GATE DRVR N-CH MOSFET 10MSOP
+IC_MAX11613EUA+T    GLOVE, POLYAMIDE, L/FREE, PU, SIZE 6 - More Details
+IC_MAX31740ATA+T    Fan Motor Speed Controller 3V to 5.5V 8-Pin TDFN EP T/R
+IC_MAX3232CSE+T     RS232 TXRX, 235KBPS, 5.5V, NSOIC-16; Device Type:Transceiver; IC Interface Type:RS232; No. of Drivers:2; Supply Voltage Min:3V; Supply Voltage Max:5.5V; Driver Case Style:NSOIC; No. of Pins:16; Operating Temperature Min:0∞C; Operating Temperature Max:70∞C; Packaging:Cut Tape; MSL:MSL 1 - Unlimited
+IC_MAX706CSA+       MAXIM INTEGRATED PRODUCTS         MAX706CSA+             Supervisory Circuit, Active-Low Reset, 1V-5.5Vin, SOIC-8
+IC_MCP23017-E/SS    I≤C Bus IC Operating temperature: -40...+125 ∞C Power supply: 1.8...5.5 V Package: SSOP-20
+IC_MCP23S17-E/SO    SPI GPIO Expander 5.5V 28-Pin SOIC W Tube
+IC_MCP4716A0T-E/CH  IC DAC 10BIT NV EEP I2C SOT-23-6
+IC_MCP6072-E/SN     IC OPAMP GP 1.2MHZ RRO 8SOIC
+IC_MIC4606-1YML-T5  Driver 1A 4-OUT High and Low Side Full Brdg Non-Inv 16-Pin QFN EP T/R
+IC_NC7SZ126M5X      ON SEMICONDUCTOR - NC7SZ126M5X - NON INVERTING UHS BUFFER, SOT-23-5
+IC_NC7SZ57P6X       FAIRCHILD SEMICONDUCTOR         NC7SZ57P6X.            Multi-Function Logic Gate, Configurable, Ultra High Speed, 3 Input, 32 mA, 1.65V to 5.5V, SC-70-6
+IC_NCV4264-2ST50T3G LDO Regulator Pos 5V 0.15A Automotive 4-Pin(3+Tab) SOT-223 T/R
+IC_OPA2333AIDG4     17 uA, MicroPower, Precision, Zero Drift CMOS Operational Amplifier, 1.8 to 5.5 V, -40 to 125 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)
+IC_OPA376AIDCKR     OP Amp Single GP R-R O/P 5.5V 5-Pin SC-70 T/R
+IC_PIC32MX795F512L-80I/PTMICROCHIP - PIC32MX795F512L-80I/PT - MCU, 32BIT, PIC32, 80MHZ, TQFP-100
+IC_Pressure_1210A-015A-3LPN 1210A-015A-3L Drucksensoren f¸r Plattenmontage 0-15psia 0-100mV Long Port
+IC_RB-2424S         CONV DC/DC 1W 24VIN 24VOUT
+IC_RS6-2412D        DC DC CONVERTER +/-12V 6W
+IC_SN65HVD3082EDGK  TRANSCEIVER, RS485, 200KBPS, VSSOP-8; Device Type:Transceiver; IC Interface Type:RS485; No. of Drivers:1; Supply Voltage Min:4.5V; Supply Voltage Max:5.5V; Driver Case Style:VSSOP; No. of Pins:8; Operating Temperature Min:-40 C; ;RoHS Compliant: Yes
+IC_SN74AC244DW      NON INVERTING BUFFER, SOIC-20; Logic Device Type:Buffer, Non Inverting; Logic Case Style:SOIC; No. of Pins:20; Supply Voltage Min:2V; Supply Voltage Max:6V; Operating Temperature Min:-40 C; Operating Temperature Max:85 C ;RoHS Compliant: Yes
+IC_SN74AC373DWR     Latch Transparent 3-ST 8-CH D-Type 20-Pin SOIC T/R
+IC_SN74AHCT02D      IC GATE NOR 4CH 2-INP 14-SOIC
+IC_SN74HC14DR       Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R
+IC_SN74HC266D       IC GATE XNOR 4CH 2IN OD 14SOIC
+IC_TBA1-2412        
+IC_TC1262-3.3VDB    500mA Fixed Output CMOS LDO,  SOT-223
+IC_TCA9509DGKR      TEXAS INSTRUMENTS - TCA9509DGKR - Interfaz Especializada, I2C, SMBus, Aplicaciones de Sistemas I2C Bus y SMBus, 900 mV, 5.5 V, VSSOP
+IC_TCA9534APWR      IC I/O EXPANDER I2C 8B 16TSSOP
+IC_TCA9548APWR      IC I2C SW 8CH W/RESET 24TSSOP
+IC_TLC555ID         Standard Timer Single 8-Pin SOIC Tube
+IC_TLV76033DBZT     LDO Regulator Pos 3.3V 0.1A 3-Pin SOT-23 T/R
+IC_TMC5160-TA       TRINAMIC - TMC5160-TA - Motor Driver/Controller, Stepper, 8V to 60V, 20A/1 Output, SPI Interface, TQFP-48
+IC_TPS2045ADR       IC 500MA PWR DIST SWITCH 8-SOIC
+IC_TPS3808G30DBVT   TEXAS INSTRUMENTS - TPS3808G30DBVT . - Voltage Supervisor 3.0V, Manual Reset, Active-Low Reset, 1.7V-6.5Vin, SOT-23-6
+IC_TS78L05CX RFG    Linear Regulator Pos 5V 100mA 3-Pin SOT-23 T/R
+IC_VR20S12          DC-DC Converter, Switching Regulater, 2A, SIP, VR Series
+IC_XR33183ESBTR     IC Receiver 0/1 TSOT23-6 / Mouser 701-XR33183ESBTR
+L-Murata-DLW21SN900SQ2-90R@100MHz-330mA-25%Inductor, SMD 330 mA, DLW21SN900SQ2L, Murata
+LED_LGR971-KN-1     LED Uni-Color Green 572nm 2-Pin SMD T/R
+LED_RGB_150353M153300IC ADC 12BIT I2C W/REF 10-MSOP
+L_100uH_B82472G6104M000EPCOS         B82472G6104M000             Surface Mount Power Inductor, B82472G6 Series, 100 H, 670 mA, 550 mA, Shielded, 0.39 ohm
+L_22uF_2305-V-RC    FIXED IND 22UH 16.4A 7 MOHM TH
+L_270uH_SRR1208-271KLInductor Power Shielded Wirewound 270uH 10% 1KHz 13Q-Factor Ferrite 950mA 400mOhm DCR T/R
+L_47uH_B82472G6473M000EPCOS         B82472G6473M000            Surface Mount Power Inductor, B82472G6 Series, 47 H,  20%, Shielded, 0.2 ohm, 1 A
+L_47uH_SRP1265A-470MFIXED IND 47UH 6.5A 90 MOHM SMD
+L_6.8uH_LPS4018-682MRBPower inductor, shielded, 20/30% tol, SMT, RoHS, lead-free, halogen-free
+L_744231061         CMC 400MA 2LN 67 OHM SMD
+L_744771008         Inductor, SMD 8.2 uH 6.25 A ±20%, 744771008, W¸rth Elektronik
+L_7447797470        WURTH ELEKTRONIK - 7447797470 - Power Inductor (SMD), 4.7 µH, 6.2 A, Shielded, 8 A, WE-PDF Series, 10.2mm x 10.2mm x 4.5mm - Power Inductor (SMD), 4.7 µH, 6.2 A, Shielded, 8 A, WE-PDF Series, 10.2mm x 10.2mm x 4.5mm
+L_BLM21PG221SN1D    Ferrite Beads Multi-Layer 220Ohm 25% 100MHz 2A 45mOhm DCR 0805 Paper T/R
+L_BLM21PG300SN1D    Ferrite Beads Multi-Layer 30Ohm 100MHz 4A 14mOhm DCR 0805 T/R
+Logo-3x10mm         Sykam Logo im Overlay
+Mountinghole_M3     Drill 3.2mm / Restring 6mm
+Mountinghole_M3-M4-RestringDrill 3.2mm / Restring 6mm
+PANEL_Mousebites-6x 
+PTC_22R_PRG21BB220MB1RKThermistor PTC 22 Ohm 20% 2-Pin 0805 Surface Mount Solder Pad T/R
+Q_IRF8707TRPBF      MOSFET N-CH 30V 11A 8-SOIC
+Q_NMOS-IRFR1205PBF  HEXFET(R) Power MOSFET, 55 V, 44 A, 27 mOhm, -55 to 175 degC, 3-Pin DPAK (TO-252AA), RoHS, Tube
+Q_NMOS_BSC072N08NS5ATMA1Trans MOSFET N-CH 80V 74A Automotive 8-Pin TDSON EP T/R, PG-TDSON-8, RoHS
+Q_NMOS_BSN20-7      DIODES INC. - BSN20-7 - Power MOSFET, N Channel, 50 V, 500 mA, 1.3 ohm, SOT-23, Surface Mount
+Q_NMOS_IPP045N10N3GXKSA1Trans MOSFET N-CH 100V 100A Automotive 3-Pin(3+Tab) TO-220 Tube
+Q_NMOS_PSMN2R6-30YLC,115PSMN2R6-30YLC - N-channel 30 V 2.8 m? logic level MOSFET in LFPAK using NextPower technology
+Q_NMOS_SI7852ADP-T1-GE3MOSFET N-CH 80V 30A PPAK SO-8
+Q_NMos_IRF7769L1TRPBFIRF7769L1TRPBF N-Channel MOSFET, 124 A, 100 V DirectFET, HEXFET, 9 + Tab-Pin L8 Infineon
+Q_PMOS_BSP250       MOSFET, P CH, 30V, 3A, SOT223
+Q_PMOS_BSS84P       Single P-Channel 60 V 8 Ohm 1 nC SIPMOSÆ Small Signal Mosfet - SOT-23
+Q_PMOS_IRFR5505TRPBFMOSFET, P CH, -55V, -18A, TO-252AA-3; Transistor Polarity:P Channel; Continuous Drain Current Id:-18A; Drain Source Voltage Vds:-55V; On Resistance Rds(on):0.11ohm; Rds(on) Test Voltage Vgs:-10V; Threshold Voltage Vgs:-4V; Power Dissipation Pd:57W; Transistor Case Style:TO-252AA; No. of Pins:3; Operating Temperature Max:150∞C; MSL:MSL 1 - Unlimited; SVHC:No SVHC (15-Jun-2015)
+Q_PMOS_IRLML5203TRPBFINFINEON - IRLML5203TRPBF - MOSFET Transistor, P Channel, -3 A, -30 V, 0.098 ohm, -10 V, -2.5 V
+Q_TPH1R306PL,L1Q    X35 Pb-f Power Mosfet Transistor SOP-8-ADV PD=170W F=1MHZ
+RELAY_G5V-1-DC5     RELAY GEN PURPOSE SPDT 1A 125V
+R_0.022R_WSL2010R0220FEARes Metal Strip 2010 0.022 Ohm 1% 1/2W 75ppm/C Molded SMD SMD Embossed Plastic T/R
+R_0R_RMCF0805ZT0R00 STACKPOLE ELECTRONICS - RMCF0805ZT0R00. - RES THKFLM 0805 0 OHM JUMPER 1/8W 200PPM/ C SMD ROHS COMPLIANT: YES
+R_1.3k_CRCW0805-1K30FKEARes Thick Film 0805 1.3K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R
+R_1.5k_RC0805FR-071K5LRes Thick Film 0805 1.5K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Paper T/R
+R_100R_RC0805FR-07100RLRes Thick Film 0805 100 Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy SMD T/R
+R_100k_0.1%_ERA-6AEB104VRes Thin Film 0805 100K Ohm 0.1% 1/8W 25ppm/C Molded SMD SMD Punched Carrier T/R
+R_100k_RC0805FR-07100KLRES SMD 100K OHM 1% 1/8W 0805
+R_10R_RC0805FR-0710RLYAGEO (PHYCOMP) - RC0805FR-0710RL - RES, THICK FILM, 10R, 1%, 0.125W, 0805
+R_10k_0.1%_ERA-6AEB103VRESISTOR, 0805, 10K, FULL REEL
+R_10k_RC0805FR-0710KLRES SMD 10K OHM 1% 1/8W 0805
+R_10mR_LRMAP2512-R01FT4Product Range:LRMA Series; Resistance:0.01ohm; Power Rating:3W; Resistance Tolerance: 1%; Resistor Case Style:2512 [6432 Metric]; Packaging:Cut Tape; Resistor Element Type:Metal Alloy; Temperature Coefficient: 100ppm/ C ;RoHS Compliant: Yes
+R_110k_ERA-6AEB114V Res Thin Film 0805 110K Ohm 0.1% 1/8W ±25ppm/∞C Molded SMD SMD Punched Carrier T/R
+R_120R_RC0805FR-07120RLRES SMD 120 OHM 1% 1/8W 0805
+R_12k_RC0805FR-0712KLRes Thick Film 0805 12K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Paper T/R
+R_13k_RC0805FR-0713KLRes Thick Film 2.0 x 1.2 mm 13K Ohm 1% 0.125W(1/8W) 100ppm/ C Molded SMD Paper T/R
+R_150R_AC0805FR-07150RLThick Film Resistors - SMD 1/8W 150ohm 1% AEC-Q200
+R_150mR_WSL2512R1500FEARes Metal Strip 2512 0.15 Ohm 1% 1W 75ppm/C Molded SMD SMD Embossed Plastic T/R
+R_154k_RC0805FR-07154KLRes Thick Film 0805 154K Ohm 1% 1/8W 100ppm/C SMD Paper T/R
+R_15k_RC0805FR-0715KLYAGEO - RC0805FR-0715KL - SMD Chip Resistor, 0805 [2012 Metric], 15 kohm, RC Series, 150 V, Thick Film, 125 mW - SMD Chip Resistor, 0805 [2012 Metric], 15 kohm, RC Series, 150 V, Thick Film, 125 mW
+R_15mR_WSL1206R0150FEARes Metal Strip 1206 0.015 Ohm 1% 1/4W 75ppm/C Molded SMD SMD Embossed Plastic T/R
+R_167k_TNPW0805167KBEEAThin Film Resistors - SMD 167Kohms .1% 25ppm
+R_182k_RN73H2ATTD1823F25Res 182K Ohm 1% 1/8W 0805
+R_184k_PTN0805E1843BBT0Thin Film Resistors - SMD 25ppm 184Kohms .1%
+R_187k_RC0805FR-07187KLResistor;Resistance:187Kohm;Resistance Tolerance:± 1%;Resistor Element Material:Thick Film;Resistor Case Style:0805
+R_1M2_CRCW08051M20FKEARes Thick Film 0805 1.2M Ohm 1% 1/8W 100ppm/C Molded SMD SMD Paper T/R
+R_1M_RC0805FR-071ML Res Thick Film 0805 1M Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy SMD T/R
+R_1M_RT0805BRD071ML Res Thin Film 0805 1M Ohm 0.1% 0.125W(1/8W) ±25ppm/C Epoxy Pad SMD T/R
+R_1k_RC0805FR-071KL RESISTOR, 0805 1K 1%, FULL REEL; Product Range:YAGEO - RC Series; Resistance:1kohm; Power Rating:125mW; Resistance Tolerance:± 1%; Resistor Case Style:0805 [2012 Metric]; Resistor Element Material:Thick Film; Temperature Coefficient:± 250ppm/∞C; Voltage Rating:150V; Packaging:Tape & Reel; MSL:-; SVHC:No SVHC (16-Dec-2013); External Depth:0.55mm; External Length / Height:2mm; External Width:1.25mm; No. of Pins:2; Operating Temperature Max:155∞C; Operating Temperature Min:-55∞C; Operating Temperature Range:-55∞C to +155∞C; Reel Quantity:5000; Resistor Mounting:SMD; Series:RC12H; Temperature Coef
+R_2.2R_ERJ-6RQF2R2V RES SMD 2.2 OHM 1% 1/8W 0805
+R_2.2k_CRG0805F2K2  Thick Film Resistors 2.2KOhms 1/8W 150V
+R_2.7k_RT0805FRE072K7LYAGEO (PHYCOMP)   RT0805FRE072K7L   Surface Mount Chip Resistor, Thin Film, RT Series, 2.7 kohm, 125 mW,  1%, 150 V
+R_200R_AC0805FR-07200RLRes Thick Film 0805 200 Ohm 1% 1/8W 100ppm/C Molded SMD SMD Paper T/R
+R_200k_RC0805FR-07200KLYAGEO - RC0805FR-07200KL - RES, THICK FILM, 200K, 1%, 0.125W, 0805, REEL
+R_200mR_0.5W_RL1632R-R200-FRes Thin Film 1206 0.2 Ohm 1% 1/2W 0ppm/Å? to 100ppm|
+R_20k_CRCW080520K0FKEARES SMD 20K OHM 1% 1/8W 0805
+R_22R_RC0805FR-0722RLRES SMD 22 OHM 1% 1/8W 0805
+R_22k_WCR0805-22KFI TT ELECTRONICS / WELWYN - WCR0805-22KFI - RES, 22K, 1%, 0.125W, 0805, THICK FILM
+R_24mR_CRL1206-FV-R024ELFCurrent Sense Resistors - SMD 0.024ohm 1%
+R_255R_RC0805FR-07255RLRes Thick Film 0805 255 Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy SMD T/R
+R_27k_RC0805FR-0727KLSurface Mount Thick Film Resistor, RC Series, 27 kohm, 125 mW, - 1%, 150 V, 0805 [2012 Metric]
+R_3.3k_RC0805FR-073K3LRes Thick Film 0805 3.3K Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy Pad SMD T/R
+R_3.6k_RC0805FR-073K6LRES SMD 3.6K OHM 1% 1/8W 0805
+R_3.9k_CRG0805F3K9  Res Thick Film 0805 3.9K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD T/R
+R_33k_0.1%_ERA-6AEB333VRESISTOR, 0805, 33K, FULL REEL
+R_33k_WCR0805-33KFI Res Thick Film 0805 33K Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy Pad SMD T/R
+R_360R_RT0805BRD07360RLRes Thin Film 0805 360 Ohm 0.1% 1/8W ±25ppm/∞C Molded SMD Paper T/R
+R_39k_CRCW080539K0FKEARes Thick Film 0805 39K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R
+R_3R_ERJ-6GEYJ3R0V  Res Thick Film 0805 3 Ohm 5% 1/8W -100ppm/∞C to 600ppm/∞C Molded SMD Punched Carrier T/R
+R_4.7R_RC0805FR-074R7LYAGEO - RC0805FR-074R7L - SMD Chip Resistor, 0805 [2012 Metric], 4.7 ohm, RC Series, 150 V, Thick Film, 125 mW
+R_40.2k_CR0805-FX-4022ELFResistor,Ruthenium Oxide,40.2KOhms,100WV,1+/-% Tol,-100,100ppm-TC,0805-Case ;RoHS Compliant: Yes
+R_470R_RC0805FR-07470RLRes Thick Film 0805 470 Ohm 1% 1/8W +/-100ppm/ﬂC Molded SMD Paper T/R
+R_47R_CRG0805F47R   Res Thick Film 0805 47 Ohm 1% 0.125W(1/8W) ±200ppm/C Pad SMD T/R
+R_47k_CRCW080547K0FKEASMD Resistor, Thick film 47 kOhm,  ±  1 %, 0805, CRCW080547K0FKEA, Vishay
+R_49.9R_ERJ-6ENF49R9VPANASONIC - ERJ6ENF49R9V - Surface Mount Thick Film Resistor, AEC-Q200 ERJ Series, 49.9 ohm, 125 mW, -  1%, 150 V RoHS Compliant: Yes
+R_4k7_RC0805FR-074K7LYAGEO (PHYCOMP)         RC0805FR-074K7L             SMD Chip Resistor, Thick Film, 4.7 kohm, 150 V, 0805 [2012 Metric], 250 mW,  1%
+R_4x-22R_TC164-JR-0722RLYAGEO - TC164-JR-0722RL - Widerstandsnetzwerk, fester Wert, 22 ohm, Baureihe TC164, 4 Element(e), Isoliert
+R_50mR_MCWW25W0R05FTLRes Power Thick Film 2512 0.05 Ohm 1% 2W ±100ppm/∞C Ceramic Emboss T/R
+R_562k_CRCW0805562KFKEARES, THICK FILM, 562K, 1%, 0.125W, 0805, REEL; Product Range:AEC-Q200 CRCW Series; Resistance:562kohm; Power Rating:125mW; Resistance Tolerance:  1%; Voltage Rating:150V; Resistor Case Style:0805 ^2012 Metric]; Packaging:Tape & Reel
+R_56k_CRCW080556K0FKEASMD Resistor, Thick film 56 kOhm,  ±  1 %, 0805, CRCW080556K0FKEA, Vishay
+R_6.2k_RC0805FR-076K2LRes Thick Film 0805 6.2K Ohm 1% 0.125W(1/8W) ±100ppm/C Epoxy Pad SMD T/R
+R_62k_CRCW080562K0FKEATHICK FILM RESISTOR, 62KOHM, 125mW, 1%, FULL REEL; Product Range:AEC-Q200 CRCW Series; Resistance:62kohm; Power Rating:125mW; Resistance Tolerance:  1%; Voltage Rating:150V; Resistor Case Style:0805 ^2012 Metric]; No. of Pins:2
+R_68k_CRCW080568K0FKEAVISHAY - CRCW080568K0FKEA - SMD Chip Resistor, 0805 [2012 Metric], 68 kohm, CRCW e3 Series, 150 V, Thick Film, 125 mW
+R_750k_RC0805FR-07750KLRes Thick Film 0805 750K Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Paper T/R
+R_82mR_WSL2512R0820FEARes Metal Strip 2512 0.082 Ohm 1% 1W 75ppm/C Molded SMD SMD Embossed Plastic T/R
+R_976k_RN73H2ATTD9763F25Res 976K Ohm 1% 1/8W 0805
+R_NTC_22k_B57471V2223J062Thermistor NTC 22K Ohm 5% 2-Pin 0805 Surface Mount Solder Pad 4455K Blister T/R
+R_PTC_PRG21BB220MB1RKThermistor PTC 22 Ohm 20% 2-Pin 0805 Surface Mount Solder Pad T/R
+R_Trimmer_3224J-1-103EResistor Trimmer 10k Ohm 10% 1/4 Watt 11 Turn 1.5mm J-hook Surface Mount Embossed Tape and Reel
+Reserve-Kontakt-T/B-LayerVia Reserve Kontakt
+T-Fairchild-FDS6982AS-NFAIRCHILD SEMICONDUCTOR   FDS6982AS   MOSFET, NN-CH, 30V, 8.6A, 8-SOIC, RL
+T_BC846ALT1G        ON SEMICONDUCTOR - BC846ALT1G - BIPOLAR TRANSISTOR, FULL REEL
+T_PNP_BC857BLT3G    TRANS PNP 45V 0.1A SOT-23
+Y_12MHz_LFSPXO019080BULKOscillator XO 12MHz ±50ppm 50pF HCMOS/TTL 55% 5V 4-Pin CSMD Bulk
+Y_18MHZ_HC49USSMD   B¸rklin NR: 78D1180
+PN: HC49USSMD-F-30-30-D-20-TR
+Y_50MHz_LFSPXO018044Oscillator, 50 MHz, 50 ppm, SMD, 7mm x 5mm, 3.3 V, CFPS-73 Series
+Y_8MHz_7W-8.000MAB-TOSC XO 8.000MHZ CMOS SMD
