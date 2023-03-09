@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Jobfile.OutJob
 Description=
-TargetOutputMedium=PDF
-VariantName=TDX-ChassisSignalPCB
+TargetOutputMedium=Folder Structure
+VariantName=S3800-V1R1
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=KONICA MINOLTA C658SeriesPCL
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -92,9 +92,9 @@ OutputName5=Assembly Drawings
 OutputCategory5=Assembly
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
-OutputEnabled5_OutputMedium2=1
+OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
@@ -133,9 +133,9 @@ Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=FileComment= |FileSubject=None|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973849~1,16973833~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False
 
 [PublishSettings]
-OutputFilePath2=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\VariantName.PDF
+OutputFilePath2=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\VariantName.PDF
 ReleaseManaged2=0
-OutputBasePath2=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\
+OutputBasePath2=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -144,7 +144,7 @@ OutputPathOutputerValue2=
 OutputFileName2=Jobfile.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2==VariantName
+OutputFileNameSpecial2==ProjectName
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -160,22 +160,22 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\
+OutputFilePath3=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\01_[R_09032023]-Projekt-[S3800-V1R1]\V1R1\
 ReleaseManaged3=0
-OutputBasePath3=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\
+OutputBasePath3=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\01_[R_09032023]-Projekt-[S3800-V1R1]\V1R1\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
-OutputFileNameMulti3==VariantName
+OutputFileNameMulti3==ProjectName
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for TDX-ChassisSignalPCB
+OutputBasePath4=Project Outputs for S3800
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -212,9 +212,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\VariantName.PDF
+RelativeOutputPath2=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\VariantName.PDF
 OpenOutputs2=1
-RelativeOutputPath3=Z:\Projekte\TDX-Chassis-Signal-PCB\Elektronik\Hardware\02_Leiterplatten\zz_RELEASED_PROJECTS\01_[R_xDATE]-Projekt-[TDX-Chassis-Signal-PCB-V1R1]\V1R1\
+RelativeOutputPath3=C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\01_[R_09032023]-Projekt-[S3800-V1R1]\V1R1\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

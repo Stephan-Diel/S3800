@@ -1,0 +1,130 @@
+Altium Designer Pick and Place Locations
+C:\01_GitHub-REP\S3800\zz_RELEASED_PROJECTS\01_[R_09032023]-Projekt-[S3800-V1R1]\V1R1\Pick Place\S3800.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.03.23
+Time:       09:39
+Revision:   b8d1304b07b3fa2f88f4cd36c9a3bc1b31fd20e3
+Variant:    S3800-V1R1
+Units used: mm
+
+Designator Center-X(mm) Center-Y(mm) Rotation Comment                      Footprint                     
+C16        27.0000      53.7000      90       100nF                        C0805                         
+C26        30.8000      22.3000      90       100uF/25V                    C_A768EB107M1ELAE036-100uF    
+X2         40.0010      61.7195      180      2050                         CON_ADAFRUIT35-TFT            
+C41        66.5000      18.2000      90       100nF                        C0805                         
+R37        25.4000      94.3000      90       10k                          R0805                         
+R36        29.6000      92.4000      0        10k                          R0805                         
+C40        27.0000      74.2000      90       1nF                          C0805                         
+C39        27.0000      70.8000      90       1nF                          C0805                         
+C38        27.0000      67.4000      90       1nF                          C0805                         
+C37        27.0000      64.0000      270      1nF                          C0805                         
+IC10       22.9600      9.3000       180      K7803M-1000R3                IC_K7803M-1000R3_THT          
+J4         56.2000      37.1000      90       SolderJumper-no-Part         SolderJumper-R1206            
+J3         56.2000      23.3000      90       SolderJumper-no-Part         SolderJumper-R1206            
+J2         56.2000      30.2000      90       SolderJumper-no-Part         SolderJumper-R1206            
+J1         63.3000      23.3000      90       SolderJumper-no-Part         SolderJumper-R1206            
+C36        31.2000      11.9000      0        100nF                        C0805                         
+C34        50.0984      46.4706      360      100nF                        C0805                         
+C33        53.0000      38.5000      270      100nF                        C0805                         
+C32        53.0000      26.7000      90       100nF                        C0805                         
+C31        53.0000      33.6000      90       100nF                        C0805                         
+C30        62.5000      28.1000      90       100nF                        C0805                         
+X22        43.3405      29.5700      360      Modul-TMC2130                TMC2130-CONNECTORS            
+X21        31.5000      32.8500      90       B4B-XH-A(LF)(SN)             CON_B4B-XH-A(LF)(SN)          
+L8         27.0000      84.7000      270      30R/100Mhz/4A                L0805                         
+L7         22.6000      40.7000      360      30R/100Mhz/4A                L0805                         
+R35        15.4000      6.8000       270      255R                         R0805                         
+LED1       11.9000      8.9000       180      LGR971-KN-1                  LED0805                       
+L6         12.1000      10.9000      180      30R/100Mhz/4A                L0805                         
+L5         31.3000      8.7000       0        30R/100Mhz/4A                L0805                         
+L2         35.4985      8.6674       180      30R/100Mhz/4A                L0805                         
+L1         51.9000      10.7000      180      30R/100Mhz/4A                L0805                         
+IC8        43.7000      5.8000       180      VR20S12                      IC_VR20S12_THT                
+C29        15.4000      10.2000      90       10uF                         C0805                         
+C28        31.1000      5.5000       90       10uF                         C1210                         
+C25        35.6000      4.3000       360      10uF                         C0805                         
+C24        35.6000      6.3000       360      10uF                         C0805                         
+C23        52.3000      4.9000       180      10uF                         C1210                         
+C22        52.3000      8.1000       180      10uF                         C1210                         
+X20        55.3496      115.9415     360      B4B-XH-A(LF)(SN)             CON_B4B-XH-A(LF)(SN)          
+X19        72.8000      29.1500      90       B6BXHA(LF)(SN)               B6BXHA(LF)(SN)                
+X18        72.8667      46.9561      270      B4B-XH-A(LF)(SN)             CON_B4B-XH-A(LF)(SN)          
+R34        68.1000      44.9000      0        2.7k                         R0805                         
+C21        50.4887      111.7690     180      100nF                        C0805                         
+C20        66.2000      27.8000      180      100nF                        C0805                         
+C19        68.1000      49.3000      180      100nF                        C0805                         
+C18        68.1000      46.9000      360      100nF                        C0805                         
+X14        6.0000       49.7000      270      B5B-XH-A(LF)(SN)             CON__B5B-XH-A_(LF)(SN)        
+X12        6.0000       78.0000      270      B5B-XH-A(LF)(SN)             CON__B5B-XH-A_(LF)(SN)        
+X10        6.0000       96.0000      270      B5B-XH-A(LF)(SN)             CON__B5B-XH-A_(LF)(SN)        
+R24        11.2000      47.6750      90       10k                          R0805                         
+R23        11.2000      44.2750      270      10k                          R0805                         
+R22        9.9000       62.9000      180      10k                          R0805                         
+R19        11.2000      75.9750      90       10k                          R0805                         
+R18        11.2000      72.6000      270      10k                          R0805                         
+R15        11.2000      93.9750      90       10k                          R0805                         
+R14        11.2000      90.5500      270      10k                          R0805                         
+C14        11.2000      51.0750      90       100nF                        C0805                         
+C12        11.2000      79.4000      90       100nF                        C0805                         
+C11        20.8000      68.7000      180      100nF                        C0805                         
+C9         11.2000      97.4000      90       100nF                        C0805                         
+X9         72.8000      97.9000      90       B2B-XH-A(LF)(SN)             CON_2p_JST-B2B-XH-A_V         
+X8         72.8000      87.7500      90       B2B-XH-A(LF)(SN)             CON_2p_JST-B2B-XH-A_V         
+X7         72.8000      77.5000      90       B2B-XH-A(LF)(SN)             CON_2p_JST-B2B-XH-A_V         
+X6         72.8000      67.3500      90       B2B-XH-A(LF)(SN)             CON_2p_JST-B2B-XH-A_V         
+X5         37.9500      115.9000     180      B6BXHA(LF)(SN)               B6BXHA(LF)(SN)                
+X4         18.0500      115.9000     180      B6BXHA(LF)(SN)               B6BXHA(LF)(SN)                
+X3         61.9000      7.6000       90       B2P-VH-B                     CON-B2P-VH-B-3.96MM_nn        
+T1         56.4000      56.3000      270      BC846ALT1G                   ONSC-SOT-23-3-318-08_V        
+R13        59.8000      99.3000      270      47k                          R0805                         
+R12        59.8371      89.1667      270      47k                          R0805                         
+R11        57.8000      99.3000      270      100R                         R0805                         
+R10        57.8371      89.1667      270      100R                         R0805                         
+R9         59.8000      78.9250      270      47k                          R0805                         
+R8         59.8000      68.8000      270      47k                          R0805                         
+R7         57.8000      78.9250      270      100R                         R0805                         
+R6         57.8000      68.8000      270      100R                         R0805                         
+R5         57.4000      59.9000      270      27k                          R0805                         
+R4         63.2000      50.0000      360      100k                         R0805                         
+R3         59.4000      56.5000      90       47k                          R0805                         
+R2         59.4000      59.9000      90       100k                         R0805                         
+R1         33.0000      92.4000      180      10k                          R0805                         
+Q5         63.4000      98.2500      270      PSMN2R6-30YLC,115            PSMN2R6-LFPAK_SOT669          
+Q4         63.4000      88.1500      270      PSMN2R6-30YLC,115            PSMN2R6-LFPAK_SOT669          
+Q3         63.4000      77.8500      270      PSMN2R6-30YLC,115            PSMN2R6-LFPAK_SOT669          
+Q2         63.4000      67.7500      270      PSMN2R6-30YLC,115            PSMN2R6-LFPAK_SOT669          
+Q1         69.4250      58.4000      360      IRFR5505TRPBF                PMOS-DPak                     
+IC7        53.3000      99.3000      90       NC7SZ57P6X                   NC7SZ57P6X                    
+IC6        53.3371      89.1667      90       NC7SZ57P6X                   NC7SZ57P6X                    
+IC5        53.3000      78.9250      90       NC7SZ57P6X                   NC7SZ57P6X                    
+IC4        53.3000      68.8000      90       NC7SZ57P6X                   NC7SZ57P6X                    
+IC3        52.9000      59.9000      90       NC7SZ57P6X                   NC7SZ57P6X                    
+IC1        31.3000      99.1000      360      MCP23017-E/SS                IC_MCP23017-E/SS_SSOP28       
+D9         68.1000      97.5000      90       US1M-13-F                    US1M-SMA-2_A_V                
+D8         68.1000      87.4000      90       US1M-13-F                    US1M-SMA-2_A_V                
+D5         68.1000      77.1000      90       US1M-13-F                    US1M-SMA-2_A_V                
+D4         68.1000      67.0000      90       US1M-13-F                    US1M-SMA-2_A_V                
+D2         64.3000      53.0000      180      US1M-13-F                    US1M-SMA-2_A_V                
+D1         62.4000      58.6000      90       US1M-13-F                    US1M-SMA-2_A_V                
+C8         55.8000      99.3000      270      100nF                        C0805                         
+C7         55.8371      89.1667      270      100nF                        C0805                         
+C6         55.8000      78.9250      270      100nF                        C0805                         
+C5         55.8000      68.8000      270      100nF                        C0805                         
+C4         55.4000      59.9000      270      100nF                        C0805                         
+C3         45.2551      111.7579     180      100nF                        C0805                         
+C2         25.3555      111.7583     180      100nF                        C0805                         
+C1         25.4000      99.0000      90       100nF                        C0805                         
+X1         37.5000      63.0000      0        "Arduino Nano"               ARDUINO-NANO-CONNECTORS       
+SIGN1      77.4000      108.2130     90       "Sykam-Logo Overlay"         Logo-Sykam_3x10mm             
+M4         75.0000      118.0000     0        "Drill 3.2mm / Restring 6mm" MOUNTINGHOLES_M3_ZYLKS_PLATED 
+M3         5.0000       118.0000     0        "Drill 3.2mm / Restring 6mm" MOUNTINGHOLES_M3_ZYLKS_PLATED 
+M2         75.0000      5.0000       0        "Drill 3.2mm / Restring 6mm" MOUNTINGHOLES_M3_ZYLKS_PLATED 
+M1         5.0000       5.0000       0        "Drill 3.2mm / Restring 6mm" MOUNTINGHOLES_M3_ZYLKS_PLATED 
+IC2        18.8000      63.1000      0        TCA9548APWR                  IC-TCA9548-TSSOP24            
+F4         10.7000      4.2000       0        "d=1.5mm Cu"                 Fiducial_1                    
+F3         76.1000      17.7000      0        "d=1.5mm Cu"                 Fiducial_1                    
+F2         3.0000       112.0000     0        "d=1.5mm Cu"                 Fiducial_1                    
+F1         66.8000      118.6000     0        "d=1.5mm Cu"                 Fiducial_1                    
